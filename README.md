@@ -826,9 +826,9 @@ git push origin feature/amazing-feature
 
 | Kênh | Thông Tin |
 |:---:|:---|
-| 📞 **Hotline** | `0966 457 974` |
-| 📧 **Email** | `vyphan21222005@gmail.com` |
-| 📍 **Địa chỉ** | 285 Cách Mạng Tháng Tám, Phường 12, Quận 10, TP.HCM |
+| 📞 **Hotline** | `0868 264 437` |
+| 📧 **Email** | `anle64437@gmail.com` |
+| 📍 **Địa chỉ** | 346 bình lợi, bình lợi trung, TP.HCM |
 | 💬 **Zalo** | Liên hệ trực tiếp |
 | 📘 **Messenger** | Nhắn tin Facebook |
 
@@ -836,7 +836,7 @@ git push origin feature/amazing-feature
 
 ### 👩‍💻 Phát Triển Bởi
 
-**Phan Thúy Vy** — *Full-Stack Developer*
+**Lê Phú An** — *Full-Stack Developer*
 
 </div>
 
